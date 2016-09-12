@@ -1,0 +1,32 @@
+_repo: California--13-Four-Months-among-the-Gold-Finders-being-the-Diary-of-an-Expedition-from-San-F__13001
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vizetelly, Henry
+    aliases:
+    - Brooks, J. Tyrwhitt, M.D.
+    - Vizettelly, Henry Richard
+    - Vizetelly, H. (Henry)
+    birthdate: 1820
+    deathdate: 1894
+    gutenberg_agent_id: '4768'
+    url: http://www.gutenberg.org/2009/agents/4768
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Vizetelly
+description: '"A fictitious narrative". cf. Vizetelly (the author''s) "Glances back
+  through seventy years," vol. I (1893) p. 343-347.'
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'California -- Fiction'
+- !lcsh 'Gold mines and mining -- Fiction'
+- GITenberg
+title: "California\r\nFour Months among the Gold-Finders, being the Diary of an Expedition\
+  \ from San Francisco to the Gold Districts"
+url: http://www.gutenberg.org/ebooks/13001
