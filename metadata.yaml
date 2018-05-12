@@ -1,5 +1,8 @@
 _repo: California--13-Four-Months-among-the-Gold-Finders-being-the-Diary-of-an-Expedition-from-San-F__13001
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vizetelly, Henry
@@ -14,6 +17,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Henry_Vizetelly
 description: '"A fictitious narrative". cf. Vizetelly (the author''s) "Glances back
   through seventy years," vol. I (1893) p. 343-347.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13001#California--13-Four-Months-among-the-Gold-Finders-being-the-Diary-of-an-Expedition-from-San-F_
 gutenberg_issued: '2004-07-23'
 gutenberg_type: Text
 identifiers:
